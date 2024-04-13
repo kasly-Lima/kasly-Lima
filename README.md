@@ -35,6 +35,6 @@ Estou sempre trabalhando em projetos interessantes para aprimorar minhas habilid
 Se você está interessado em colaborar em projetos ou apenas gostaria de conversar sobre tecnologia, não hesite em entrar em contato comigo. Estou ansioso para trocar ideias e aprender com outros desenvolvedores talentosos como você.
 
 - Email: kasly.exercito@gmail.com
-- LinkedIn: 
+- LinkedIn: Kasly-Lima
 
 Obrigado por visitar meu perfil! Espero que encontre algo interessante por aqui.
